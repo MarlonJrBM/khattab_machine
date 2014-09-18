@@ -1,0 +1,4 @@
+SUB_FUN:	SUB	R0	R1
+RET		
+END
+
